@@ -36,7 +36,7 @@ Due to computational constraints, we work with a **stratified sample of 1 millio
 2. **Identify and address class imbalance** issues that affect minority classes (water and cloud)
 3. **Compare pixel vs. patch approaches** to quantify the value of spatial context:
    - Pixel-based: MLP variants (baseline, regularized, weighted)
-   - Patch-based: CNN, ResNet, U-Net architectures
+   - Patch-based: CNN (Baseline and Advanced)
      
 4. **Analyze trade-offs** between model complexity, performance, and computational efficiency
 **Key Challenges**
